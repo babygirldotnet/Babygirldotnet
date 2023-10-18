@@ -2,7 +2,7 @@
 - 👀 I’m interested in web design, web development using HTML, graphic design & UI/UX Design
 - 🌱 I’m currently learning the fundamentals of UX Design, Python & IT Suppot.
 - 💞️ I’m looking to collaborate on freecodecamp, free programming books, Vue, System Design Primer, and Open Source Society University.
-- 📫 How to reach me ... cyberbabehustles@gmail.com or at my LinkedIn https://linkedin.com/in/jessicacarms
+- 📫 How to reach me ... cyberbabehustles@gmail.com or at my LinkedIn https://linkedin.com/in/jcarms
 
 <!---
 cyberbabehustles/cyberbabehustles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
